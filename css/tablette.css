@@ -1,0 +1,260 @@
+#logo
+{
+    margin-left: 2%;
+    z-index: 1;
+    width: 12%;
+    aspect-ratio: 4/1.8;
+}
+.logo
+{
+    width: 100%;
+    margin-left: 40%;
+    margin-top: 15%;
+    margin-bottom: 20%;
+}
+#Navigation
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-right: 70px;
+    width: 25%;
+}
+header a
+{
+    color: black;
+    line-height: 140px;
+}
+header a:hover
+{
+    background: linear-gradient(to bottom,#0065FC 3%, white 3% 100%);
+    color: #0065FC;
+}
+#bloc_page h1
+{
+    font-size: 3.5vw;
+}
+#bloc_page h2
+{
+    font-size: 2.5vw;
+}
+.maps
+{
+    width: 5%;
+}
+.fa-map-marker-alt, #search input
+{
+    font-size: 2vw;
+}
+#my_Search
+{
+    width: 50%;
+    aspect-ratio: 7/0.7;
+}
+.search
+{
+    width: 15%;
+    aspect-ratio: 4/1.35;
+}
+#filters
+{
+    flex-wrap: wrap;
+    width: 100%;
+    margin-left: 0px;
+    aspect-ratio: 27.7/2.7;
+}
+h1, h2
+{
+    text-align: center;
+}
+#search, #filters
+{
+    justify-content: center;
+}
+#page_Results h3
+{
+    font-size: 1.5vw;
+}
+#page_Popular h3
+{
+    font-size: 1.5vw;
+}
+#filters h3
+{
+    width: 100% ;
+    text-align: center;
+    font-size: 30px;
+}
+.filter
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    margin-left: 3%;
+    height: 50%;
+}
+.background_Filters
+{
+    font-size: 1.8vw;
+}
+.fas
+{
+    font-size: 1.8vw;
+}
+.Ratio_Filter_Familial
+{
+    aspect-ratio: 4.8/1.6;
+}
+#total
+{
+    justify-content: center;
+    align-items: center;
+    margin-top: 6%;
+}
+#total h2
+{
+    font-size: 2vw;
+}
+#info
+{
+    width: 3%;
+    aspect-ratio: 1/1;
+}
+.fa-info
+{
+    font-size: 1.5vw;
+}
+.t1, .plus
+{
+    width: 100%;
+}
+.plus
+{
+    margin-left: 40px;
+}
+#page_Results
+{
+    flex-direction: column;
+    margin-right: 2.5%;
+    width: 65%;
+    padding-bottom: 25px;
+}
+#results
+{
+    margin-bottom: 25px;
+}
+#page_Results .t1
+{
+    margin-left: 0px;
+    font-size: 2.5vw;
+}
+h4
+{
+    font-size: 1.5vw;
+}
+#bloc_page #results .t1
+{
+    font-size: 3vw;
+}
+#title_Page_Popular .t1
+{
+    font-size: 2vw;
+}
+.background_Result
+{
+    margin: 5px;
+    width: 40%;
+}
+#page_Popular
+{
+    align-items: center;
+    margin-left: 2.5%;
+}
+#page_Popular .t1
+{
+    margin-left: 0px;
+    margin-top: 10%;
+}
+#popular
+{
+    width: 90%;
+}
+.title_Popular
+{
+    margin-bottom: -1%;
+}
+.sous_Titre_Populaire_Deux
+{
+    margin-top: 0px;
+    margin-bottom: -1%;
+    line-height: 180%;
+}
+.fa-chart-line
+{
+    color: black;
+    text-align: center;
+    margin-top: 10%;
+    margin-right: -10%;
+}
+.background_Popular
+{
+    flex-direction: column;
+    width: 85%;
+    height: 65%;
+}
+.size_Img_Popular
+{
+    border-radius: 10px 10px 0 0;
+    margin: 0;
+    height: 65%;
+    width: auto;
+    aspect-ratio: 2/1.2;
+}
+#page_Popular img
+{
+    margin: 5px 5px 0 5px;
+    border-radius: 15px 15px 0 0;
+    height: auto;
+    aspect-ratio: 2/1.2;
+}
+.infos_Popular
+{
+    margin-left: 20px;
+    justify-content: space-around;
+    height: 35%;
+}
+.fa-star
+{
+    font-size: 12px;
+}
+body .title_Activities
+{
+    margin-top: 5vw;
+}
+.background_Activity_One, .background_Activity_Two, .background_Activity_Three, .background_Activity_Four, .background_Activity_Five, .background_Activity_Six
+{
+    border-radius: 10px;
+}
+#conteneur_Footer
+{
+    width: auto;
+    padding-right: 3%;
+}
+#activity h3
+{
+    font-size: 1.4vw;
+}
+#activity .title_Activity_Four
+{
+    font-size: 1.4vw;
+    margin-left: 5%;
+}
+footer h3
+{
+    font-size: 2vw;
+}
+footer h4
+{
+    font-size: 1.5vw;
+}
